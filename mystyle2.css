@@ -20,9 +20,9 @@ h5 { text-align: center;
 .kort3-image {
 
     background-color: brown;
-    width: 350px;
-    height: 450px;
-    margin: 35px;
+    width: 450px;
+    height: 475px;
+    margin: 30px;
     border-radius: 15px;
     border-style: solid;
     border-color:brown;
@@ -40,12 +40,13 @@ h5 { text-align: center;
 .kort2 {
 
     background-color: brown;
-    width: 350px;
-    height: 450px;
-    margin: 35px;
+    width: 480px;
+    height: 475px;
+    margin: 30px;
     border-radius: 15px;
     border-style: solid;
     border-color:brown;
     border-width: 3px;
-    line-height: 28px;
+    line-height: 24px;
 }
+

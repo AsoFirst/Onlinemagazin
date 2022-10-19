@@ -19,7 +19,7 @@
 
     background-color: brown;
     width: 350px;
-    height: 550px;
+    height: 560px;
     margin: 50px;
     border-radius: 15px;
     border-style: solid;
@@ -51,14 +51,14 @@
 
     background-color: brown;
     width: 565px;
-    height: 550px;
+    height: 560px;
     margin-top: 50px;
     border-radius: 15px;
     border-style: solid;
     border-color:brown;
     border-width: 3px;
     text-align: left;
-    line-height: 36px;
+    line-height: 28px;
     list-style-type: circle;}
     
 

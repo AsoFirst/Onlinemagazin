@@ -86,7 +86,7 @@ header a {text-decoration: none;
   padding: 0 0px;
   letter-spacing: 0.5px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin-left: 165px;
+  margin-left: 145px;
   font-weight: 700;
   
 }
@@ -135,10 +135,10 @@ a:hover:after{
 #img{
 
     display: block;
-    margin-left: 630px;
+    margin-left: 520px;
     margin-right: auto;
-    height: 150px;
-    width: 150px;
+    height: 220px;
+    width: 380px;
     border-radius: 100px;
     padding-bottom: 15px;
     
