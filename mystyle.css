@@ -1,0 +1,209 @@
+
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.flex-container {
+
+display: flex;    
+justify-content: center;
+justify-content: space-around;
+
+
+
+
+}
+
+.card {
+    background-color: brown;
+    width: 350px;
+    height: 420px;
+    margin: 10px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color:bisque;
+    border-width: 3px;
+    text-align: center;
+    
+}
+
+
+.card-image {
+
+    background-color: burlywood;
+    height: 300px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+
+  
+}
+
+
+.food-1 {
+
+    background-image: url(images/pasta1.jpeg);
+    background-size: cover;
+}
+
+.arrangement {
+
+    background-image: url(images/salling.webp);
+    background-size: cover;
+}
+
+.cocktail {
+
+    background-image: url(images/mangogin2.png);
+    background-size: cover;
+}
+
+
+body {
+    color: white;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-image: url(images/fælleskab.webp);
+
+
+    
+}
+
+main {
+    margin: 0% auto;
+    padding: 100px 20px;
+  
+  
+}
+
+header a {text-decoration: none;
+  text-transform: none;
+  position: relative;
+  color: brown;
+  margin: 90px;
+  font-size: 25px;
+  padding: 0 0px;
+  letter-spacing: 0.5px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 165px;
+  font-weight: 700;
+  
+}
+
+main a {text-decoration: none;
+    color: white;
+    transition: none;
+    content: none;
+}
+
+main a::after {
+
+    content:none;
+   
+}
+
+main a:hover { 
+
+    color: bisque;
+}
+
+a:hover  {
+
+    color: white;
+}
+
+a:after {
+
+    content:"";
+    position: absolute;
+    background-color: white;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.3s;
+   
+}
+
+a:hover:after{
+
+    width: 100%;
+   
+}
+
+#img{
+
+    display: block;
+    margin-left: 630px;
+    margin-right: auto;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    padding-bottom: 15px;
+    
+}
+
+
+
+
+.footer-flexcontainer {
+    
+   
+    width: 100%;
+    text-align: center;
+
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    margin-top: 100px;
+    margin-bottom: -100px;
+  
+
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    
+}
+
+form input {
+    width: 400px;
+    height: 45px;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    outline: none;
+}
+
+form button {
+    border-color: bisque;
+    color: beige;
+    background: transparent;
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+
+.footer-flexcontainer div h1 {
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    font-size: 30px;
+}
+
+.socialemedier 
+
+{
+    font-size: 10px;
+    padding-bottom: 70px;
+    cursor: pointer;}
+
+.socialemedier img {
+
+    height: 50px;
+}
+

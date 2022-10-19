@@ -1,0 +1,73 @@
+
+
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.flex-container1 {
+
+    display: flex;   
+    justify-content: center;
+    flex-direction: row-reverse;
+   
+}
+
+
+.kort1{
+
+    background-color: brown;
+    width: 350px;
+    height: 550px;
+    margin: 50px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color:brown;
+    border-width: 3px;
+    list-style-type: none;
+    
+}
+
+    
+
+.kort-image {
+    
+    background-color: burlywood;
+    height: 300px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+  
+}
+
+
+.pasta{
+    background-image: url(images/pasta1.jpeg);
+    background-size: cover;
+
+}
+
+.kort2 {
+
+    background-color: brown;
+    width: 565px;
+    height: 550px;
+    margin-top: 50px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color:brown;
+    border-width: 3px;
+    text-align: left;
+    line-height: 36px;
+    list-style-type: circle;}
+    
+
+
+h6{ font-size: 40pt;
+    color: brown;
+    text-align: center;
+    margin-right: 50px;
+}
+
+
+

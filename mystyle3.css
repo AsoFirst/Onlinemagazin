@@ -1,0 +1,54 @@
+
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.flex-container3 {
+
+display: flex;
+justify-content: center;
+
+}
+
+h6 {
+
+    text-align: center;
+    font-size: 40pt;
+    color: brown;
+}
+
+.kort4-image{
+background-color: brown;
+width: 350px;
+height: 450px;
+margin: 35px;
+border-radius: 15px;
+border-style: solid;
+border-color:brown;
+border-width: 3px;
+margin-bottom: 199px;
+}
+
+.salling {
+
+    background-image: url(images/salling.webp);
+    background-size: cover;
+}
+
+.kort5 {
+
+background-color: brown;
+width: 580px;
+height: 450px;
+margin: 35px;
+border-radius: 15px;
+border-style: solid;
+border-color:brown;
+border-width: 3px;
+line-height: 20px;
+text-align: center;
+
+
+}

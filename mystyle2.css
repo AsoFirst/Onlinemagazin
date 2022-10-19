@@ -1,0 +1,51 @@
+
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.flex-container2{
+
+  display: flex;  
+  justify-content: center;
+}
+
+h5 { text-align: center;
+    color: brown;
+    font-size: 40pt ;
+
+}
+
+.kort3-image {
+
+    background-color: brown;
+    width: 350px;
+    height: 450px;
+    margin: 35px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color:brown;
+    border-width: 3px;
+    margin-bottom: 150px;
+}
+
+.mangogin {
+    background-image: url(images/mangogin1.png);
+    background-size: cover;
+    
+}
+
+
+.kort2 {
+
+    background-color: brown;
+    width: 350px;
+    height: 450px;
+    margin: 35px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color:brown;
+    border-width: 3px;
+    line-height: 28px;
+}
